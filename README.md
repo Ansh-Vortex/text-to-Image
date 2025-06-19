@@ -30,7 +30,9 @@ Download or generate another image
 
 👨‍💻 Developer
 Ansh
-Instagram | Telegram
+
+Instagram - https://www.instagram.com/fx8ah/
+Telegram - https://t.me/highoncodes
 
 💻 Technology
 Pure HTML/CSS/JS (no frameworks)
